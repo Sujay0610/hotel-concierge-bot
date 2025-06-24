@@ -1,4 +1,4 @@
-# Sheraton Bot
+# Hotel Concierge Bot
 
 ## Overview
 
